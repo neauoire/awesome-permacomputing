@@ -102,6 +102,7 @@ A curation of resources, projects, and communities related to permacomputing.
 - [Micro](https://micro-editor.github.io/) - Lightweight, intuitive terminal-based text editor.
 - [Geany](https://www.geany.org/) - Small, lightweight IDE suitable for basic coding needs.
 - [Nano](https://www.nano-editor.org/) - A lightweight, terminal-based text editor for Unix-like systems.
+- [Left](https://wiki.xxiivv.com/site/left) - Graphical text editor for the Uxn virtual machine. 18kb
    
 ##### Tools
 
@@ -118,6 +119,7 @@ A curation of resources, projects, and communities related to permacomputing.
 - [Festival](https://festival.pm/) - A lightweight music player designed for local album collections.
 - [FOX](http://fox-toolkit.org/) - A portable C++ based toolkit for building GUIs.
 - [Zola](https://www.getzola.org/) - A fast static site generator in a single binary.
+- [Uxn](https://100r.co/site/uxn.html) - A portability layer for graphical applications.
 
 ##### Network Protocols
 
@@ -152,6 +154,7 @@ A curation of resources, projects, and communities related to permacomputing.
 - [Framework](https://frame.work/) - Customisable, repairable laptops.
 - [Fairphone](https://www.fairphone.com/) - Repairable smartphones made with responsibly sourced materials.
 - [pine64](https://pine64.org/) - Devices based on open-source hardware.
+- [Green Arrays](https://www.greenarraychips.com/) - Low power computation platforms.
 
 ##### Repairing
 
@@ -196,6 +199,7 @@ A curation of resources, projects, and communities related to permacomputing.
 - [Data Garden](https://www.datagarden.org/) - A series of bio-reactive installations that transform natural phenomena into music-generating data.
 - [Fiber Space](https://www.fiber-space.nl/) - Events and workshops exploring permacomputing in creative and digital arts.
 - [Small File Photo Festival](https://unthinking.photography/projects/smallfile/) - A mini festival encouraging and celebrating small size photography.
+- [Tiny Code Christmas](https://tcc.lovebyte.party/) - A yearly jam on low-level graphics programming.
 
 ### Forums
 
